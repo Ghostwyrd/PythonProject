@@ -1,2 +1,2 @@
-# PythonProject
+# PythonProjects
 include Python programming projects
